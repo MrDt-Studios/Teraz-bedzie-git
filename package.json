@@ -1,0 +1,12 @@
+{
+    "name": "terazbedziegit",
+    "version": "1.0.0",
+    "description": "No to ten emmm taki mały bot...",
+    "main": "bot.js",
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "fs": "0.0.1-security"
+    },
+    "author": "Davvid#9022",
+    "license": "ISC"
+}
